@@ -1,5 +1,6 @@
 # Hi there 👋
-My name is Melissa, I'm a french student in computer science at [Epitech](https://www.epitech.eu/en/). I'm interested in new technologies 👩‍💻 basketball 🏀 and movies 🎥
+My name is Melissa, I'm a french :fr: student in computer science at [Epitech](https://www.epitech.eu/en/) :mortar_board:. <br>
+I'm interested in new technologies :woman_technologist: basketball :basketball: and movies :movie_camera:
 
 ## Here are my main skills !
 
