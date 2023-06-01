@@ -7,8 +7,15 @@ I also love to build computers :desktop_computer: and space :milky_way:
 
 ### Languages :computer:
 
-[![Main languages](https://skillicons.dev/icons?i=c,cpp&perline=9)](https://github.com/tandpfun/skill-icons)
+[![Main languages](https://skillicons.dev/icons?i=c,cpp,python&perline=9)](https://github.com/tandpfun/skill-icons)
+
+#### Learning :books:
+
+[![Main languages](https://skillicons.dev/icons?i=kubernetes&perline=9)](https://github.com/tandpfun/skill-icons)
+
+
 ### Tools :wrench:
 [![Main tools](https://skillicons.dev/icons?i=linux,docker,cmake,github,git,idea,vscode,md&perline=9)](https://github.com/tandpfun/skill-icons)
+
 ### Media :iphone:
-[![Main media](https://skillicons.dev/icons?i=linkedin,discord&perline=9)](https://github.com/tandpfun/skill-icons)
+[![Main media](https://skillicons.dev/icons?i=linkedin,discord,mastodon&perline=9)](https://github.com/tandpfun/skill-icons)
