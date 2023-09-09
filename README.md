@@ -9,11 +9,6 @@ I also love to build computers :desktop_computer: and space :milky_way:
 
 [![Main languages](https://skillicons.dev/icons?i=c,cpp,python,html,css,js,ts,react&perline=9)](https://github.com/tandpfun/skill-icons)
 
-#### Learning :books:
-
-[![Main languages](https://skillicons.dev/icons?i=kubernetes&perline=9)](https://github.com/tandpfun/skill-icons)
-
-
 ### Tools :wrench:
 [![Main tools](https://skillicons.dev/icons?i=linux,docker,cmake,github,git,idea,vscode,md&perline=9)](https://github.com/tandpfun/skill-icons)
 
