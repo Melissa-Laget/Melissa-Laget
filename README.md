@@ -7,10 +7,10 @@ I also love to build computers :desktop_computer: and space :milky_way:
 
 ### Languages :computer:
 
-[![Main languages](https://skillicons.dev/icons?i=c,cpp,python,html,css,php,js,ts,react,nextjs&perline=9)](https://github.com/tandpfun/skill-icons)
+[![Main languages](https://skillicons.dev/icons?i=c,cpp,python,html,css,php,js,ts,react,nextjs&perline=5)](https://github.com/tandpfun/skill-icons)
 
 ### Tools :wrench:
-[![Main tools](https://skillicons.dev/icons?i=linux,cmake,docker,jenkins,mysql,github,git,githubactions,idea,vscode,md,postman,powershell&perline=9)](https://github.com/tandpfun/skill-icons)
+[![Main tools](https://skillicons.dev/icons?i=linux,cmake,docker,jenkins,mysql,github,git,githubactions,idea,vscode,md,postman,powershell&perline=5)](https://github.com/tandpfun/skill-icons)
 
 ### Media :iphone:
-[![Main media](https://skillicons.dev/icons?i=linkedin,discord,mastodon&perline=9)](https://github.com/tandpfun/skill-icons)
+[![Main media](https://skillicons.dev/icons?i=linkedin,discord,mastodon&perline=5)](https://github.com/tandpfun/skill-icons)
