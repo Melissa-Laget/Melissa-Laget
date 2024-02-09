@@ -1,7 +1,7 @@
 # Hi there 👋
 My name is Melissa, I'm a french :fr: student in computer science at [Epitech](https://www.epitech.eu/) :mortar_board: <br>
 I'm interested in new technologies :woman_technologist: basketball :basketball: games :video_game: and movies :movie_camera: <br>
-I also love to build computers :desktop_computer: and space :milky_way: <br>
+I also love to build computers :desktop_computer: and space :milky_way:
 
 Here is my [Epitech Github](https://www.github.com/Melissa-Laget) if you wanna see my contributions
 
