@@ -7,10 +7,27 @@ I also love to build computers :desktop_computer: and space :milky_way:
 
 ### Languages :computer:
 
-[![Main languages](https://skillicons.dev/icons?i=c,cpp,python,html,css,php,js,ts,react,nextjs&perline=5)](https://github.com/tandpfun/skill-icons)
+- Compiled and Interpreted :technologist:
+[![Main languages](https://skillicons.dev/icons?i=c,cpp,python&perline=5)](https://github.com/tandpfun/skill-icons)
+
+- Web :globe_with_meridians:
+[![Main languages](https://skillicons.dev/icons?i=html,css,php,js,ts,react,nextjs&perline=7)](https://github.com/tandpfun/skill-icons)
 
 ### Tools :wrench:
-[![Main tools](https://skillicons.dev/icons?i=linux,cmake,docker,jenkins,mysql,github,git,githubactions,idea,vscode,md,postman,powershell&perline=5)](https://github.com/tandpfun/skill-icons)
+
+- DevOps :whale2:
+[![Main tools](https://skillicons.dev/icons?i=docker,jenkins,mysql&perline=5)](https://github.com/tandpfun/skill-icons)
+
+- Github :octocat:
+[![Main tools](https://skillicons.dev/icons?i=github,git,githubactions&perline=5)](https://github.com/tandpfun/skill-icons)
+
+- Development :desktop_computer:
+[![Main tools](https://skillicons.dev/icons?i=linux,cmake,postman,powershell,bash&perline=5)](https://github.com/tandpfun/skill-icons)
+
+- Text editor :keyboard:
+[![Main tools](https://skillicons.dev/icons?i=idea,vscode,md,emacs&perline=5)](https://github.com/tandpfun/skill-icons)
 
 ### Media :iphone:
 [![Main media](https://skillicons.dev/icons?i=linkedin,discord,mastodon&perline=5)](https://github.com/tandpfun/skill-icons)
+
+Here is my [Linkedin](https://www.linkedin.com/in/mélissa-laget)
