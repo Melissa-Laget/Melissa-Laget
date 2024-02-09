@@ -24,7 +24,7 @@ I also love to build computers :desktop_computer: and space :milky_way:
 - Development :desktop_computer:<br>
 [![Main tools](https://skillicons.dev/icons?i=linux,cmake,postman,powershell,bash&perline=5)](https://github.com/tandpfun/skill-icons)
 
-- Text editor :keyboard:
+- Text editor :keyboard:<br>
 [![Main tools](https://skillicons.dev/icons?i=idea,vscode,md,emacs&perline=5)](https://github.com/tandpfun/skill-icons)
 
 ### Media :iphone:
